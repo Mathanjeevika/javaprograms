@@ -20,7 +20,9 @@ public class TestCode{
             System.out.print(x + " ");
         System.out.println();
     }
-
+	/**
+	This is the comment for main method
+	***/
     public static void main(String[] args) {
         Person per = new Person();
         per.regNo = 10;
